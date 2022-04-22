@@ -1,0 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+}
+
+html{
+  background: linear-gradient(
+    90deg,
+    rgb(209, 53, 53) 0%,
+    rgb(175, 47, 47) 98%
+  );
+}
